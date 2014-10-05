@@ -1,0 +1,52 @@
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.vbproj.ResolveComReference.cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.Form2.resources
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\Interop.WMPLib.dll
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.vbproj.ResolveComReference.cache
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.exe
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.xml
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.pdb
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.exe
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.pdb
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.xml
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\bin\Debug\Interop.WMPLib.dll
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\ResolveAssemblyReference.cache
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.Form1.resources
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.Form2.resources
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.Resources.resources
+J:\programs\new vbproj\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.vbproj.GenerateResource.Cache
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.vbproj.ResolveComReference.cache
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.Resources.resources
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.vbproj.GenerateResource.Cache
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.mainFrm.resources
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.vbproj.ResolveComReference.cache
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.xml
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.pdb

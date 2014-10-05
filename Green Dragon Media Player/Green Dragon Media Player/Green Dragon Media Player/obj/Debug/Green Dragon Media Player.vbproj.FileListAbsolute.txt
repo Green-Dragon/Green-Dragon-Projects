@@ -1,0 +1,53 @@
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Green Dragon Media Player.vbproj.ResolveComReference.cache
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Debug\Green Dragon Media Player.exe
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Debug\Green Dragon Media Player.pdb
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Debug\Green Dragon Media Player.xml
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Green_Dragon_Media_Player.mainFrm.resources
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Green_Dragon_Media_Player.Resources.resources
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Green Dragon Media Player.vbproj.GenerateResource.Cache
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Green Dragon Media Player.exe
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Green Dragon Media Player.xml
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\obj\Debug\Green Dragon Media Player.pdb
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Release\Green Dragon Media Player.exe
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Release\Green Dragon Media Player.pdb
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Release\Green Dragon Media Player.xml
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Release\Interop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Mediaplayer\Mediaplayer\bin\Release\AxInterop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\emils_000\Downloads\mediaplayer_1\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.vbproj.ResolveComReference.cache
+C:\Users\emils_000\Downloads\mediaplayer_1\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.exe
+C:\Users\emils_000\Downloads\mediaplayer_1\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.xml
+C:\Users\emils_000\Downloads\mediaplayer_1\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.pdb
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.vbproj.ResolveComReference.cache
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.exe
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.xml
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.pdb
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\Green Dragon Media Player.exe
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\Green Dragon Media Player.pdb
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\Green Dragon Media Player.xml
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\Interop.WMPLib.dll
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\AxInterop.WMPLib.dll
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green_Dragon_Media_Player.mainFrm.resources
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green_Dragon_Media_Player.Resources.resources
+C:\Users\emils_000\Desktop\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.vbproj.GenerateResource.Cache
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.vbproj.ResolveComReference.cache
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.exe
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.xml
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.pdb
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\Green Dragon Media Player.exe
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\Green Dragon Media Player.pdb
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\Green Dragon Media Player.xml
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\Interop.WMPLib.dll
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\bin\Release\AxInterop.WMPLib.dll
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green_Dragon_Media_Player.mainFrm.resources
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green_Dragon_Media_Player.Resources.resources
+C:\Users\emils_000\Dropbox\Projects\Source Code\Green Dragon Media Player\Green Dragon Media Player\Green Dragon Media Player\obj\Debug\Green Dragon Media Player.vbproj.GenerateResource.Cache

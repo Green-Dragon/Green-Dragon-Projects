@@ -1,0 +1,2024 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PdbContent>
+  <UserEntryPoint>null</UserEntryPoint>
+  <SourceFile Index="0" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">C:\Users\emils_000\Desktop\Green Dragon\Source Code\Green Dragon Anti-Virus\Green Dragon Anti-Virus\My\MyApplication.cs</SourceFile>
+  <SourceFile Index="1" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">C:\Users\emils_000\Desktop\Green Dragon\Source Code\Green Dragon Anti-Virus\Green Dragon Anti-Virus\My\Resources\Resources.cs</SourceFile>
+  <SourceFile Index="2" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">C:\Users\emils_000\Desktop\Green Dragon\Source Code\Green Dragon Anti-Virus\Green Dragon Anti-Virus\Form1.cs</SourceFile>
+  <SourceFile Index="3" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">C:\Users\emils_000\Desktop\Green Dragon\Source Code\Green Dragon Anti-Virus\Green Dragon Anti-Virus\Form2.cs</SourceFile>
+  <SourceFile Index="4" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">C:\Users\emils_000\Desktop\Green Dragon\Source Code\Green Dragon Anti-Virus\Green Dragon Anti-Virus\My\MyComputer.cs</SourceFile>
+  <SourceFile Index="5" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">C:\Users\emils_000\Desktop\Green Dragon\Source Code\Green Dragon Anti-Virus\Green Dragon Anti-Virus\My\MySettings.cs</SourceFile>
+  <SourceFile Index="6" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">C:\Users\emils_000\Desktop\Green Dragon\Source Code\Green Dragon Anti-Virus\Green Dragon Anti-Virus\My\MyProject.cs</SourceFile>
+  <SourceFile Index="7" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">C:\Users\emils_000\Desktop\Green Dragon\Source Code\Green Dragon Anti-Virus\Green Dragon Anti-Virus\My\MySettingsProperty.cs</SourceFile>
+  <Method Token="6000001">
+    <SequencePoints SourceFileIndex="0">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="0" StartLine="39" StartColumn="9" EndLine="39" EndColumn="110" />
+      <SequencePoint IlOffset="IL_000d" SourceFileIndex="0" StartLine="44" StartColumn="7" EndLine="44" EndColumn="38" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0019" IsRoot="True" Method="6000001">
+      <Scope OffsetRange="IL_0000-IL_0019" IsRoot="False" Method="6000001">
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003F">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="45" StartColumn="9" EndLine="45" EndColumn="31" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600003F">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="600003F">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000004">
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000004" />
+  </Method>
+  <Method Token="6000058">
+    <SequencePoints SourceFileIndex="5">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="5" StartLine="32" StartColumn="9" EndLine="32" EndColumn="38" />
+      <SequencePoint IlOffset="IL_0007" SourceFileIndex="5" StartLine="34" StartColumn="11" EndLine="34" EndColumn="64" />
+      <SequencePoint IlOffset="IL_000d" SourceFileIndex="5" StartLine="35" StartColumn="11" EndLine="35" EndColumn="68" />
+      <SequencePoint IlOffset="IL_0013" SourceFileIndex="5" StartLine="36" StartColumn="11" EndLine="36" EndColumn="33" />
+      <SequencePoint IlOffset="IL_0015" SourceFileIndex="5" StartLine="39" StartColumn="13" EndLine="39" EndColumn="53" />
+      <SequencePoint IlOffset="IL_001d" SourceFileIndex="5" StartLine="40" StartColumn="13" EndLine="40" EndColumn="42" />
+      <SequencePoint IlOffset="IL_0024" SourceFileIndex="5" StartLine="42" StartColumn="15" EndLine="47" EndColumn="17" />
+      <SequencePoint IlOffset="IL_003a" SourceFileIndex="5" StartLine="48" StartColumn="15" EndLine="48" EndColumn="45" />
+      <SequencePoint IlOffset="IL_0040" SourceFileIndex="5" Hidden="true" />
+      <SequencePoint IlOffset="IL_0042" SourceFileIndex="5" StartLine="53" StartColumn="13" EndLine="53" EndColumn="27" />
+      <SequencePoint IlOffset="IL_0045" SourceFileIndex="5" StartLine="54" StartColumn="15" EndLine="54" EndColumn="39" />
+      <SequencePoint IlOffset="IL_004b" SourceFileIndex="5" Hidden="true" />
+      <SequencePoint IlOffset="IL_004c" SourceFileIndex="5" StartLine="57" StartColumn="9" EndLine="57" EndColumn="43" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0052" IsRoot="True" Method="6000058">
+      <Scope OffsetRange="IL_0000-IL_0052" IsRoot="False" Method="6000058">
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Configuration</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Threading</UsedNamespace>
+        <Scope OffsetRange="IL_000c-IL_0046" IsRoot="False" Method="6000058">
+          <LocalVariable LocalVariablesSignatureToken="11000036" IlIndex="1" Attributes="PrivateScope" Signature="">Expression</LocalVariable>
+          <Scope OffsetRange="IL_0014-IL_0043" IsRoot="False" Method="6000058">
+            <LocalVariable LocalVariablesSignatureToken="11000036" IlIndex="2" Attributes="PrivateScope" Signature="">lockTaken</LocalVariable>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000052">
+    <SequencePoints SourceFileIndex="1">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="1" StartLine="33" StartColumn="9" EndLine="33" EndColumn="83" />
+      <SequencePoint IlOffset="IL_000d" SourceFileIndex="1" StartLine="34" StartColumn="11" EndLine="34" EndColumn="120" />
+      <SequencePoint IlOffset="IL_002d" SourceFileIndex="1" StartLine="35" StartColumn="9" EndLine="35" EndColumn="38" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0033" IsRoot="True" Method="6000052">
+      <Scope OffsetRange="IL_0000-IL_0033" IsRoot="False" Method="6000052">
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Globalization</UsedNamespace>
+        <UsedNamespace>System.Resources</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000002">
+    <SequencePoints SourceFileIndex="0">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="0" StartLine="23" StartColumn="9" EndLine="23" EndColumn="41" />
+      <SequencePoint IlOffset="IL_0007" SourceFileIndex="0" StartLine="25" StartColumn="7" EndLine="25" EndColumn="36" />
+      <SequencePoint IlOffset="IL_000e" SourceFileIndex="0" StartLine="26" StartColumn="7" EndLine="26" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0015" SourceFileIndex="0" StartLine="27" StartColumn="7" EndLine="27" EndColumn="39" />
+      <SequencePoint IlOffset="IL_001c" SourceFileIndex="0" StartLine="28" StartColumn="7" EndLine="28" EndColumn="59" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0024" IsRoot="True" Method="6000002">
+      <Scope OffsetRange="IL_0000-IL_0024" IsRoot="False" Method="6000002">
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000053">
+    <SequencePoints SourceFileIndex="1">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="1" StartLine="44" StartColumn="9" EndLine="44" EndColumn="42" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0006" IsRoot="True" Method="6000053">
+      <Scope OffsetRange="IL_0000-IL_0006" IsRoot="False" Method="6000053">
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Globalization</UsedNamespace>
+        <UsedNamespace>System.Resources</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000003">
+    <SequencePoints SourceFileIndex="0">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="0" StartLine="50" StartColumn="7" EndLine="50" EndColumn="51" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0011" IsRoot="True" Method="6000003">
+      <Scope OffsetRange="IL_0000-IL_0011" IsRoot="False" Method="6000003">
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000054">
+    <SequencePoints SourceFileIndex="1">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="1" StartLine="48" StartColumn="9" EndLine="48" EndColumn="42" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000054">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000054">
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Globalization</UsedNamespace>
+        <UsedNamespace>System.Resources</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000057">
+    <SequencePoints SourceFileIndex="5">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="5" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0017" IsRoot="True" Method="6000057">
+      <Scope OffsetRange="IL_0000-IL_0017" IsRoot="False" Method="6000057">
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Configuration</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Threading</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000055">
+    <SequencePoints SourceFileIndex="5">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="5" StartLine="24" StartColumn="5" EndLine="24" EndColumn="121" />
+      <SequencePoint IlOffset="IL_0014" SourceFileIndex="5" StartLine="25" StartColumn="5" EndLine="25" EndColumn="96" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0024" IsRoot="True" Method="6000055">
+      <Scope OffsetRange="IL_0000-IL_0024" IsRoot="False" Method="6000055">
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Configuration</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Threading</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000006">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="39" StartColumn="9" EndLine="39" EndColumn="63" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="6000006">
+      <Scope OffsetRange="IL_0000-IL_000b" IsRoot="False" Method="6000006">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000059">
+    <SequencePoints SourceFileIndex="7">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="7" StartLine="26" StartColumn="9" EndLine="26" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0006" IsRoot="True" Method="6000059">
+      <Scope OffsetRange="IL_0000-IL_0006" IsRoot="False" Method="6000059">
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000056">
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000056" />
+  </Method>
+  <Method Token="6000040">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="49" StartColumn="9" EndLine="49" EndColumn="31" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000040">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="6000040">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000007">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="48" StartColumn="9" EndLine="48" EndColumn="58" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="6000007">
+      <Scope OffsetRange="IL_0000-IL_000b" IsRoot="False" Method="6000007">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000041">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="57" StartColumn="9" EndLine="57" EndColumn="31" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000041">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000041">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000008">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="57" StartColumn="9" EndLine="57" EndColumn="59" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="6000008">
+      <Scope OffsetRange="IL_0000-IL_000b" IsRoot="False" Method="6000008">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000042">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="61" StartColumn="9" EndLine="61" EndColumn="31" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000042">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="6000042">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000022">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="61" StartColumn="9" EndLine="61" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000022">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000022">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000043">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="69" StartColumn="9" EndLine="69" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000043">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000043">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000009">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="66" StartColumn="9" EndLine="66" EndColumn="62" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="6000009">
+      <Scope OffsetRange="IL_0000-IL_000b" IsRoot="False" Method="6000009">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000023">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="65" StartColumn="9" EndLine="65" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000023">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="6000023">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000044">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="73" StartColumn="9" EndLine="73" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000044">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="6000044">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000045">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="81" StartColumn="9" EndLine="81" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000045">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000045">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600000A">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="75" StartColumn="9" EndLine="75" EndColumn="68" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="600000A">
+      <Scope OffsetRange="IL_0000-IL_000b" IsRoot="False" Method="600000A">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000046">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="85" StartColumn="9" EndLine="85" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000046">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="6000046">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000005">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="28" StartColumn="5" EndLine="28" EndColumn="156" />
+      <SequencePoint IlOffset="IL_000a" SourceFileIndex="6" StartLine="29" StartColumn="5" EndLine="29" EndColumn="157" />
+      <SequencePoint IlOffset="IL_0014" SourceFileIndex="6" StartLine="30" StartColumn="5" EndLine="30" EndColumn="140" />
+      <SequencePoint IlOffset="IL_001e" SourceFileIndex="6" StartLine="31" StartColumn="5" EndLine="31" EndColumn="160" />
+      <SequencePoint IlOffset="IL_0028" SourceFileIndex="6" StartLine="32" StartColumn="5" EndLine="32" EndColumn="187" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0033" IsRoot="True" Method="6000005">
+      <Scope OffsetRange="IL_0000-IL_0033" IsRoot="False" Method="6000005">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000047">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="93" StartColumn="9" EndLine="93" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000047">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000047">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000048">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="97" StartColumn="9" EndLine="97" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000048">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="6000048">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000024">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="73" StartColumn="9" EndLine="73" EndColumn="30" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000024">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000024">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600000B">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="92" StartColumn="11" EndLine="92" EndColumn="83" />
+      <SequencePoint IlOffset="IL_0011" SourceFileIndex="6" StartLine="93" StartColumn="11" EndLine="93" EndColumn="31" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0018" IsRoot="True" Method="600000B">
+      <Scope OffsetRange="IL_0000-IL_0018" IsRoot="False" Method="600000B">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000025">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="77" StartColumn="9" EndLine="77" EndColumn="73" />
+      <SequencePoint IlOffset="IL_000e" SourceFileIndex="2" StartLine="78" StartColumn="9" EndLine="78" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="2" StartLine="79" StartColumn="11" EndLine="79" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0022" SourceFileIndex="2" StartLine="80" StartColumn="9" EndLine="80" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0029" SourceFileIndex="2" StartLine="81" StartColumn="9" EndLine="81" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0031" SourceFileIndex="2" StartLine="83" StartColumn="9" EndLine="83" EndColumn="44" />
+      <SequencePoint IlOffset="IL_003d" SourceFileIndex="2" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_003e" IsRoot="True" Method="6000025">
+      <Scope OffsetRange="IL_0000-IL_003e" IsRoot="False" Method="6000025">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_000d-IL_0038" IsRoot="False" Method="6000025">
+          <LocalVariable LocalVariablesSignatureToken="11000019" IlIndex="0" Attributes="PrivateScope" Signature="">eventHandler</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600000D">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="97" StartColumn="11" EndLine="97" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0009" SourceFileIndex="6" StartLine="98" StartColumn="13" EndLine="98" EndColumn="20" />
+      <SequencePoint IlOffset="IL_000a" SourceFileIndex="6" StartLine="99" StartColumn="11" EndLine="99" EndColumn="29" />
+      <SequencePoint IlOffset="IL_000d" SourceFileIndex="6" StartLine="100" StartColumn="13" EndLine="100" EndColumn="80" />
+      <SequencePoint IlOffset="IL_0018" SourceFileIndex="6" StartLine="101" StartColumn="11" EndLine="101" EndColumn="60" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0025" IsRoot="True" Method="600000D">
+      <Scope OffsetRange="IL_0000-IL_0025" IsRoot="False" Method="600000D">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000049">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="105" StartColumn="9" EndLine="105" EndColumn="30" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000049">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000049">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000026">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="91" StartColumn="9" EndLine="91" EndColumn="30" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000026">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000026">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600000C">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="109" StartColumn="11" EndLine="109" EndColumn="83" />
+      <SequencePoint IlOffset="IL_0011" SourceFileIndex="6" StartLine="110" StartColumn="11" EndLine="110" EndColumn="31" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0018" IsRoot="True" Method="600000C">
+      <Scope OffsetRange="IL_0000-IL_0018" IsRoot="False" Method="600000C">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000027">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="95" StartColumn="9" EndLine="95" EndColumn="73" />
+      <SequencePoint IlOffset="IL_000e" SourceFileIndex="2" StartLine="96" StartColumn="9" EndLine="96" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="2" StartLine="97" StartColumn="11" EndLine="97" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0022" SourceFileIndex="2" StartLine="98" StartColumn="9" EndLine="98" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0029" SourceFileIndex="2" StartLine="99" StartColumn="9" EndLine="99" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0031" SourceFileIndex="2" StartLine="101" StartColumn="9" EndLine="101" EndColumn="44" />
+      <SequencePoint IlOffset="IL_003d" SourceFileIndex="2" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_003e" IsRoot="True" Method="6000027">
+      <Scope OffsetRange="IL_0000-IL_003e" IsRoot="False" Method="6000027">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_000d-IL_0038" IsRoot="False" Method="6000027">
+          <LocalVariable LocalVariablesSignatureToken="1100001B" IlIndex="0" Attributes="PrivateScope" Signature="">eventHandler</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600000E">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="114" StartColumn="11" EndLine="114" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0009" SourceFileIndex="6" StartLine="115" StartColumn="13" EndLine="115" EndColumn="20" />
+      <SequencePoint IlOffset="IL_000a" SourceFileIndex="6" StartLine="116" StartColumn="11" EndLine="116" EndColumn="29" />
+      <SequencePoint IlOffset="IL_000d" SourceFileIndex="6" StartLine="117" StartColumn="13" EndLine="117" EndColumn="80" />
+      <SequencePoint IlOffset="IL_0018" SourceFileIndex="6" StartLine="118" StartColumn="11" EndLine="118" EndColumn="60" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0025" IsRoot="True" Method="600000E">
+      <Scope OffsetRange="IL_0000-IL_0025" IsRoot="False" Method="600000E">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600004A">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="109" StartColumn="9" EndLine="109" EndColumn="73" />
+      <SequencePoint IlOffset="IL_000e" SourceFileIndex="3" StartLine="110" StartColumn="9" EndLine="110" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="3" StartLine="111" StartColumn="11" EndLine="111" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0022" SourceFileIndex="3" StartLine="112" StartColumn="9" EndLine="112" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0029" SourceFileIndex="3" StartLine="113" StartColumn="9" EndLine="113" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0031" SourceFileIndex="3" StartLine="115" StartColumn="9" EndLine="115" EndColumn="44" />
+      <SequencePoint IlOffset="IL_003d" SourceFileIndex="3" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_003e" IsRoot="True" Method="600004A">
+      <Scope OffsetRange="IL_0000-IL_003e" IsRoot="False" Method="600004A">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_000d-IL_0038" IsRoot="False" Method="600004A">
+          <LocalVariable LocalVariablesSignatureToken="1100002F" IlIndex="0" Attributes="PrivateScope" Signature="">eventHandler</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600000F">
+    <Scope OffsetRange="IL_0000-IL_00e2" IsRoot="True" Method="600000F" />
+  </Method>
+  <Method Token="6000028">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="109" StartColumn="9" EndLine="109" EndColumn="30" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000028">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000028">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000029">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="113" StartColumn="9" EndLine="113" EndColumn="73" />
+      <SequencePoint IlOffset="IL_000e" SourceFileIndex="2" StartLine="114" StartColumn="9" EndLine="114" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="2" StartLine="115" StartColumn="11" EndLine="115" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0022" SourceFileIndex="2" StartLine="116" StartColumn="9" EndLine="116" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0029" SourceFileIndex="2" StartLine="117" StartColumn="9" EndLine="117" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0031" SourceFileIndex="2" StartLine="119" StartColumn="9" EndLine="119" EndColumn="44" />
+      <SequencePoint IlOffset="IL_003d" SourceFileIndex="2" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_003e" IsRoot="True" Method="6000029">
+      <Scope OffsetRange="IL_0000-IL_003e" IsRoot="False" Method="6000029">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_000d-IL_0038" IsRoot="False" Method="6000029">
+          <LocalVariable LocalVariablesSignatureToken="1100001D" IlIndex="0" Attributes="PrivateScope" Signature="">eventHandler</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600004B">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="123" StartColumn="9" EndLine="123" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600004B">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="600004B">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000010">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="137" StartColumn="9" EndLine="137" EndColumn="27" />
+      <SequencePoint IlOffset="IL_000c" SourceFileIndex="6" StartLine="138" StartColumn="9" EndLine="138" EndColumn="31" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_001c" IsRoot="True" Method="6000010">
+      <Scope OffsetRange="IL_0000-IL_001c" IsRoot="False" Method="6000010">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000011">
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000011" />
+  </Method>
+  <Method Token="600004C">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="127" StartColumn="9" EndLine="127" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="600004C">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="600004C">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600002A">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="127" StartColumn="9" EndLine="127" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600002A">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="600002A">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600004D">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="135" StartColumn="9" EndLine="135" EndColumn="34" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600004D">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="600004D">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600002B">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="131" StartColumn="9" EndLine="131" EndColumn="71" />
+      <SequencePoint IlOffset="IL_000e" SourceFileIndex="2" StartLine="132" StartColumn="9" EndLine="132" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="2" StartLine="133" StartColumn="11" EndLine="133" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0022" SourceFileIndex="2" StartLine="134" StartColumn="9" EndLine="134" EndColumn="29" />
+      <SequencePoint IlOffset="IL_0029" SourceFileIndex="2" StartLine="135" StartColumn="9" EndLine="135" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0031" SourceFileIndex="2" StartLine="137" StartColumn="9" EndLine="137" EndColumn="42" />
+      <SequencePoint IlOffset="IL_003d" SourceFileIndex="2" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_003e" IsRoot="True" Method="600002B">
+      <Scope OffsetRange="IL_0000-IL_003e" IsRoot="False" Method="600002B">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_000d-IL_0038" IsRoot="False" Method="600002B">
+          <LocalVariable LocalVariablesSignatureToken="1100001F" IlIndex="0" Attributes="PrivateScope" Signature="">eventHandler</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000012">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="144" StartColumn="9" EndLine="144" EndColumn="62" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="6000012">
+      <Scope OffsetRange="IL_0000-IL_000d" IsRoot="False" Method="6000012">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600004E">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="139" StartColumn="9" EndLine="139" EndColumn="34" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="600004E">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="600004E">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000013">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="150" StartColumn="9" EndLine="150" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000013">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000013">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003C">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" Hidden="true" />
+      <SequencePoint IlOffset="IL_0006" SourceFileIndex="3" StartLine="145" StartColumn="7" EndLine="145" EndColumn="75" />
+      <SequencePoint IlOffset="IL_0019" SourceFileIndex="3" StartLine="146" StartColumn="7" EndLine="146" EndColumn="53" />
+      <SequencePoint IlOffset="IL_002c" SourceFileIndex="3" StartLine="147" StartColumn="7" EndLine="147" EndColumn="26" />
+      <SequencePoint IlOffset="IL_0033" SourceFileIndex="3" StartLine="148" StartColumn="7" EndLine="148" EndColumn="33" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_003a" IsRoot="True" Method="600003C">
+      <Scope OffsetRange="IL_0000-IL_003a" IsRoot="False" Method="600003C">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600002C">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="145" StartColumn="9" EndLine="145" EndColumn="32" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600002C">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="600002C">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000014">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="156" StartColumn="9" EndLine="156" EndColumn="43" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="6000014">
+      <Scope OffsetRange="IL_0000-IL_000b" IsRoot="False" Method="6000014">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600002D">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="149" StartColumn="9" EndLine="149" EndColumn="32" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="600002D">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="600002D">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000015">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="162" StartColumn="9" EndLine="162" EndColumn="32" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000015">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000015">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600002E">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="157" StartColumn="9" EndLine="157" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600002E">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="600002E">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003D">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="156" StartColumn="9" EndLine="156" EndColumn="51" />
+      <SequencePoint IlOffset="IL_0003" SourceFileIndex="3" Hidden="true" />
+      <SequencePoint IlOffset="IL_000b" SourceFileIndex="3" StartLine="158" StartColumn="9" EndLine="158" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="3" StartLine="157" StartColumn="11" EndLine="157" EndColumn="18" />
+      <SequencePoint IlOffset="IL_0018" SourceFileIndex="3" StartLine="162" StartColumn="9" EndLine="162" EndColumn="32" />
+      <SequencePoint IlOffset="IL_001f" SourceFileIndex="3" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0021" IsRoot="True" Method="600003D">
+      <Scope OffsetRange="IL_0000-IL_0021" IsRoot="False" Method="600003D">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600002F">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="161" StartColumn="9" EndLine="161" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="600002F">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="600002F">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000030">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="169" StartColumn="9" EndLine="169" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000030">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000030">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000016">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="180" StartColumn="9" EndLine="180" EndColumn="62" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="6000016">
+      <Scope OffsetRange="IL_0000-IL_000d" IsRoot="False" Method="6000016">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000031">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="173" StartColumn="9" EndLine="173" EndColumn="29" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000031">
+      <Scope OffsetRange="IL_0000-IL_0008" IsRoot="False" Method="6000031">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003E">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="169" StartColumn="7" EndLine="169" EndColumn="75" />
+      <SequencePoint IlOffset="IL_000b" SourceFileIndex="3" StartLine="170" StartColumn="7" EndLine="170" EndColumn="103" />
+      <SequencePoint IlOffset="IL_001b" SourceFileIndex="3" StartLine="171" StartColumn="7" EndLine="171" EndColumn="36" />
+      <SequencePoint IlOffset="IL_0026" SourceFileIndex="3" StartLine="172" StartColumn="7" EndLine="172" EndColumn="36" />
+      <SequencePoint IlOffset="IL_0031" SourceFileIndex="3" StartLine="173" StartColumn="7" EndLine="173" EndColumn="32" />
+      <SequencePoint IlOffset="IL_003c" SourceFileIndex="3" StartLine="174" StartColumn="7" EndLine="174" EndColumn="32" />
+      <SequencePoint IlOffset="IL_0047" SourceFileIndex="3" StartLine="175" StartColumn="7" EndLine="175" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0052" SourceFileIndex="3" StartLine="176" StartColumn="7" EndLine="176" EndColumn="34" />
+      <SequencePoint IlOffset="IL_005d" SourceFileIndex="3" StartLine="177" StartColumn="7" EndLine="177" EndColumn="32" />
+      <SequencePoint IlOffset="IL_0068" SourceFileIndex="3" StartLine="178" StartColumn="7" EndLine="178" EndColumn="57" />
+      <SequencePoint IlOffset="IL_0079" SourceFileIndex="3" StartLine="179" StartColumn="7" EndLine="179" EndColumn="27" />
+      <SequencePoint IlOffset="IL_007f" SourceFileIndex="3" StartLine="180" StartColumn="7" EndLine="180" EndColumn="45" />
+      <SequencePoint IlOffset="IL_00a2" SourceFileIndex="3" StartLine="185" StartColumn="7" EndLine="185" EndColumn="38" />
+      <SequencePoint IlOffset="IL_00cd" SourceFileIndex="3" StartLine="190" StartColumn="7" EndLine="190" EndColumn="33" />
+      <SequencePoint IlOffset="IL_00d9" SourceFileIndex="3" StartLine="191" StartColumn="7" EndLine="191" EndColumn="45" />
+      <SequencePoint IlOffset="IL_00ff" SourceFileIndex="3" StartLine="196" StartColumn="7" EndLine="196" EndColumn="38" />
+      <SequencePoint IlOffset="IL_012a" SourceFileIndex="3" StartLine="201" StartColumn="7" EndLine="201" EndColumn="33" />
+      <SequencePoint IlOffset="IL_0136" SourceFileIndex="3" StartLine="202" StartColumn="7" EndLine="202" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0159" SourceFileIndex="3" StartLine="207" StartColumn="7" EndLine="207" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0181" SourceFileIndex="3" StartLine="212" StartColumn="7" EndLine="212" EndColumn="31" />
+      <SequencePoint IlOffset="IL_018d" SourceFileIndex="3" StartLine="213" StartColumn="7" EndLine="213" EndColumn="47" />
+      <SequencePoint IlOffset="IL_019d" SourceFileIndex="3" StartLine="214" StartColumn="7" EndLine="214" EndColumn="34" />
+      <SequencePoint IlOffset="IL_01c3" SourceFileIndex="3" StartLine="219" StartColumn="7" EndLine="219" EndColumn="34" />
+      <SequencePoint IlOffset="IL_01eb" SourceFileIndex="3" StartLine="224" StartColumn="7" EndLine="224" EndColumn="31" />
+      <SequencePoint IlOffset="IL_01f7" SourceFileIndex="3" StartLine="225" StartColumn="7" EndLine="225" EndColumn="39" />
+      <SequencePoint IlOffset="IL_0221" SourceFileIndex="3" StartLine="230" StartColumn="7" EndLine="230" EndColumn="46" />
+      <SequencePoint IlOffset="IL_024c" SourceFileIndex="3" StartLine="235" StartColumn="7" EndLine="235" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0258" SourceFileIndex="3" StartLine="236" StartColumn="7" EndLine="236" EndColumn="35" />
+      <SequencePoint IlOffset="IL_027e" SourceFileIndex="3" StartLine="241" StartColumn="7" EndLine="241" EndColumn="36" />
+      <SequencePoint IlOffset="IL_02a6" SourceFileIndex="3" StartLine="246" StartColumn="7" EndLine="246" EndColumn="32" />
+      <SequencePoint IlOffset="IL_02b2" SourceFileIndex="3" StartLine="247" StartColumn="7" EndLine="247" EndColumn="34" />
+      <SequencePoint IlOffset="IL_02c2" SourceFileIndex="3" StartLine="248" StartColumn="7" EndLine="248" EndColumn="50" />
+      <SequencePoint IlOffset="IL_02ce" SourceFileIndex="3" StartLine="249" StartColumn="7" EndLine="249" EndColumn="112" />
+      <SequencePoint IlOffset="IL_02eb" SourceFileIndex="3" StartLine="250" StartColumn="7" EndLine="250" EndColumn="55" />
+      <SequencePoint IlOffset="IL_0312" SourceFileIndex="3" StartLine="255" StartColumn="7" EndLine="255" EndColumn="34" />
+      <SequencePoint IlOffset="IL_033d" SourceFileIndex="3" StartLine="260" StartColumn="7" EndLine="260" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0349" SourceFileIndex="3" StartLine="261" StartColumn="7" EndLine="261" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0356" SourceFileIndex="3" StartLine="262" StartColumn="7" EndLine="262" EndColumn="57" />
+      <SequencePoint IlOffset="IL_0362" SourceFileIndex="3" StartLine="263" StartColumn="7" EndLine="263" EndColumn="64" />
+      <SequencePoint IlOffset="IL_0372" SourceFileIndex="3" StartLine="264" StartColumn="7" EndLine="264" EndColumn="56" />
+      <SequencePoint IlOffset="IL_0382" SourceFileIndex="3" StartLine="265" StartColumn="7" EndLine="265" EndColumn="56" />
+      <SequencePoint IlOffset="IL_0392" SourceFileIndex="3" StartLine="266" StartColumn="7" EndLine="266" EndColumn="38" />
+      <SequencePoint IlOffset="IL_039e" SourceFileIndex="3" StartLine="267" StartColumn="7" EndLine="267" EndColumn="52" />
+      <SequencePoint IlOffset="IL_03b7" SourceFileIndex="3" StartLine="268" StartColumn="7" EndLine="268" EndColumn="46" />
+      <SequencePoint IlOffset="IL_03d7" SourceFileIndex="3" StartLine="271" StartColumn="7" EndLine="271" EndColumn="47" />
+      <SequencePoint IlOffset="IL_03e8" SourceFileIndex="3" StartLine="272" StartColumn="7" EndLine="272" EndColumn="48" />
+      <SequencePoint IlOffset="IL_03f9" SourceFileIndex="3" StartLine="273" StartColumn="7" EndLine="273" EndColumn="53" />
+      <SequencePoint IlOffset="IL_040a" SourceFileIndex="3" StartLine="274" StartColumn="7" EndLine="274" EndColumn="47" />
+      <SequencePoint IlOffset="IL_041b" SourceFileIndex="3" StartLine="275" StartColumn="7" EndLine="275" EndColumn="47" />
+      <SequencePoint IlOffset="IL_042c" SourceFileIndex="3" StartLine="276" StartColumn="7" EndLine="276" EndColumn="49" />
+      <SequencePoint IlOffset="IL_043d" SourceFileIndex="3" StartLine="277" StartColumn="7" EndLine="277" EndColumn="49" />
+      <SequencePoint IlOffset="IL_044e" SourceFileIndex="3" StartLine="278" StartColumn="7" EndLine="278" EndColumn="74" />
+      <SequencePoint IlOffset="IL_0464" SourceFileIndex="3" StartLine="279" StartColumn="7" EndLine="279" EndColumn="26" />
+      <SequencePoint IlOffset="IL_046f" SourceFileIndex="3" StartLine="280" StartColumn="7" EndLine="280" EndColumn="58" />
+      <SequencePoint IlOffset="IL_0476" SourceFileIndex="3" StartLine="281" StartColumn="7" EndLine="281" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0481" SourceFileIndex="3" StartLine="282" StartColumn="7" EndLine="282" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0488" SourceFileIndex="3" StartLine="283" StartColumn="7" EndLine="283" EndColumn="27" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_048f" IsRoot="True" Method="600003E">
+      <Scope OffsetRange="IL_0000-IL_048f" IsRoot="False" Method="600003E">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_001a-IL_0450" IsRoot="False" Method="600003E">
+          <LocalVariable LocalVariablesSignatureToken="11000028" IlIndex="0" Attributes="PrivateScope" Signature="">componentResourceManager</LocalVariable>
+          <Scope OffsetRange="IL_0091-IL_030d" IsRoot="False" Method="600003E">
+            <LocalVariable LocalVariablesSignatureToken="11000028" IlIndex="2" Attributes="PrivateScope" Signature="">point1</LocalVariable>
+            <Scope OffsetRange="IL_00b8-IL_030d" IsRoot="False" Method="600003E">
+              <LocalVariable LocalVariablesSignatureToken="11000028" IlIndex="4" Attributes="PrivateScope" Signature="">size1</LocalVariable>
+            </Scope>
+          </Scope>
+          <Scope OffsetRange="IL_030d-IL_03d2" IsRoot="False" Method="600003E">
+            <LocalVariable LocalVariablesSignatureToken="11000028" IlIndex="4" Attributes="PrivateScope" Signature="">size1</LocalVariable>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000032">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="181" StartColumn="9" EndLine="181" EndColumn="30" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000032">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000032">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000017">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="187" StartColumn="9" EndLine="187" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000017">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000017">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000033">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="185" StartColumn="9" EndLine="185" EndColumn="73" />
+      <SequencePoint IlOffset="IL_000e" SourceFileIndex="2" StartLine="186" StartColumn="9" EndLine="186" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="2" StartLine="187" StartColumn="11" EndLine="187" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0022" SourceFileIndex="2" StartLine="188" StartColumn="9" EndLine="188" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0029" SourceFileIndex="2" StartLine="189" StartColumn="9" EndLine="189" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0031" SourceFileIndex="2" StartLine="191" StartColumn="9" EndLine="191" EndColumn="44" />
+      <SequencePoint IlOffset="IL_003d" SourceFileIndex="2" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_003e" IsRoot="True" Method="6000033">
+      <Scope OffsetRange="IL_0000-IL_003e" IsRoot="False" Method="6000033">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_000d-IL_0038" IsRoot="False" Method="6000033">
+          <LocalVariable LocalVariablesSignatureToken="11000024" IlIndex="0" Attributes="PrivateScope" Signature="">eventHandler</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000018">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="194" StartColumn="9" EndLine="194" EndColumn="49" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000b" IsRoot="True" Method="6000018">
+      <Scope OffsetRange="IL_0000-IL_000b" IsRoot="False" Method="6000018">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000019">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="201" StartColumn="9" EndLine="201" EndColumn="32" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000019">
+      <Scope OffsetRange="IL_0000-IL_0007" IsRoot="False" Method="6000019">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600001A">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="207" StartColumn="9" EndLine="207" EndColumn="39" />
+      <SequencePoint IlOffset="IL_0008" SourceFileIndex="6" StartLine="208" StartColumn="11" EndLine="208" EndColumn="48" />
+      <SequencePoint IlOffset="IL_000e" SourceFileIndex="6" StartLine="210" StartColumn="11" EndLine="210" EndColumn="27" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0010" IsRoot="True" Method="600001A">
+      <Scope OffsetRange="IL_0000-IL_0010" IsRoot="False" Method="600001A">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600001B">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="216" StartColumn="9" EndLine="216" EndColumn="31" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0010" IsRoot="True" Method="600001B">
+      <Scope OffsetRange="IL_0000-IL_0010" IsRoot="False" Method="600001B">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000034">
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000034" />
+  </Method>
+  <Method Token="600001C">
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600001C" />
+  </Method>
+  <Method Token="6000035">
+    <Scope OffsetRange="IL_0000-IL_0008" IsRoot="True" Method="6000035" />
+  </Method>
+  <Method Token="600001F">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_0006" SourceFileIndex="2" StartLine="199" StartColumn="7" EndLine="199" EndColumn="53" />
+      <SequencePoint IlOffset="IL_0019" SourceFileIndex="2" StartLine="200" StartColumn="7" EndLine="200" EndColumn="40" />
+      <SequencePoint IlOffset="IL_0024" SourceFileIndex="2" StartLine="201" StartColumn="7" EndLine="201" EndColumn="39" />
+      <SequencePoint IlOffset="IL_002f" SourceFileIndex="2" StartLine="202" StartColumn="7" EndLine="207" EndColumn="8" />
+      <SequencePoint IlOffset="IL_0055" SourceFileIndex="2" StartLine="208" StartColumn="7" EndLine="213" EndColumn="8" />
+      <SequencePoint IlOffset="IL_007b" SourceFileIndex="2" StartLine="214" StartColumn="7" EndLine="238" EndColumn="8" />
+      <SequencePoint IlOffset="IL_0147" SourceFileIndex="2" StartLine="239" StartColumn="7" EndLine="258" EndColumn="8" />
+      <SequencePoint IlOffset="IL_01e6" SourceFileIndex="2" StartLine="259" StartColumn="7" EndLine="281" EndColumn="8" />
+      <SequencePoint IlOffset="IL_02a0" SourceFileIndex="2" StartLine="282" StartColumn="7" EndLine="301" EndColumn="8" />
+      <SequencePoint IlOffset="IL_033f" SourceFileIndex="2" StartLine="302" StartColumn="7" EndLine="302" EndColumn="28" />
+      <SequencePoint IlOffset="IL_0346" SourceFileIndex="2" StartLine="303" StartColumn="7" EndLine="303" EndColumn="28" />
+      <SequencePoint IlOffset="IL_034d" SourceFileIndex="2" StartLine="304" StartColumn="7" EndLine="304" EndColumn="27" />
+      <SequencePoint IlOffset="IL_0354" SourceFileIndex="2" StartLine="305" StartColumn="7" EndLine="305" EndColumn="28" />
+      <SequencePoint IlOffset="IL_035b" SourceFileIndex="2" StartLine="306" StartColumn="7" EndLine="306" EndColumn="25" />
+      <SequencePoint IlOffset="IL_0362" SourceFileIndex="2" StartLine="307" StartColumn="7" EndLine="307" EndColumn="33" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0369" IsRoot="True" Method="600001F">
+      <Scope OffsetRange="IL_0000-IL_0369" IsRoot="False" Method="600001F">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600001D">
+    <SequencePoints SourceFileIndex="6">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="6" StartLine="228" StartColumn="11" EndLine="228" EndColumn="90" />
+      <SequencePoint IlOffset="IL_000c" SourceFileIndex="6" StartLine="229" StartColumn="13" EndLine="229" EndColumn="102" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="6" StartLine="230" StartColumn="11" EndLine="230" EndColumn="76" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_001c" IsRoot="True" Method="600001D">
+      <Scope OffsetRange="IL_0000-IL_001c" IsRoot="False" Method="600001D">
+        <UsedNamespace>Green_Dragon_Anti_Virus</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.ApplicationServices</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.CodeDom.Compiler</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.ComponentModel.Design</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Runtime.InteropServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600001E">
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="600001E" />
+  </Method>
+  <Method Token="6000020">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="315" StartColumn="9" EndLine="315" EndColumn="51" />
+      <SequencePoint IlOffset="IL_0003" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_000b" SourceFileIndex="2" StartLine="317" StartColumn="9" EndLine="317" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="2" StartLine="316" StartColumn="11" EndLine="316" EndColumn="18" />
+      <SequencePoint IlOffset="IL_0018" SourceFileIndex="2" StartLine="321" StartColumn="9" EndLine="321" EndColumn="32" />
+      <SequencePoint IlOffset="IL_001f" SourceFileIndex="2" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0021" IsRoot="True" Method="6000020">
+      <Scope OffsetRange="IL_0000-IL_0021" IsRoot="False" Method="6000020">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000021">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="328" StartColumn="7" EndLine="328" EndColumn="75" />
+      <SequencePoint IlOffset="IL_000b" SourceFileIndex="2" StartLine="329" StartColumn="7" EndLine="329" EndColumn="103" />
+      <SequencePoint IlOffset="IL_001b" SourceFileIndex="2" StartLine="330" StartColumn="7" EndLine="330" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0026" SourceFileIndex="2" StartLine="331" StartColumn="7" EndLine="331" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0031" SourceFileIndex="2" StartLine="332" StartColumn="7" EndLine="332" EndColumn="34" />
+      <SequencePoint IlOffset="IL_003c" SourceFileIndex="2" StartLine="333" StartColumn="7" EndLine="333" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0047" SourceFileIndex="2" StartLine="334" StartColumn="7" EndLine="334" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0058" SourceFileIndex="2" StartLine="335" StartColumn="7" EndLine="335" EndColumn="38" />
+      <SequencePoint IlOffset="IL_0063" SourceFileIndex="2" StartLine="336" StartColumn="7" EndLine="336" EndColumn="32" />
+      <SequencePoint IlOffset="IL_006e" SourceFileIndex="2" StartLine="337" StartColumn="7" EndLine="337" EndColumn="32" />
+      <SequencePoint IlOffset="IL_0079" SourceFileIndex="2" StartLine="338" StartColumn="7" EndLine="338" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0084" SourceFileIndex="2" StartLine="339" StartColumn="7" EndLine="339" EndColumn="27" />
+      <SequencePoint IlOffset="IL_00a1" SourceFileIndex="2" StartLine="344" StartColumn="7" EndLine="344" EndColumn="46" />
+      <SequencePoint IlOffset="IL_00cc" SourceFileIndex="2" StartLine="349" StartColumn="7" EndLine="349" EndColumn="37" />
+      <SequencePoint IlOffset="IL_00ef" SourceFileIndex="2" StartLine="354" StartColumn="7" EndLine="354" EndColumn="36" />
+      <SequencePoint IlOffset="IL_0117" SourceFileIndex="2" StartLine="359" StartColumn="7" EndLine="359" EndColumn="32" />
+      <SequencePoint IlOffset="IL_0123" SourceFileIndex="2" StartLine="360" StartColumn="7" EndLine="360" EndColumn="33" />
+      <SequencePoint IlOffset="IL_0133" SourceFileIndex="2" StartLine="361" StartColumn="7" EndLine="361" EndColumn="50" />
+      <SequencePoint IlOffset="IL_0156" SourceFileIndex="2" StartLine="366" StartColumn="7" EndLine="366" EndColumn="36" />
+      <SequencePoint IlOffset="IL_017e" SourceFileIndex="2" StartLine="371" StartColumn="7" EndLine="371" EndColumn="32" />
+      <SequencePoint IlOffset="IL_018a" SourceFileIndex="2" StartLine="372" StartColumn="7" EndLine="372" EndColumn="42" />
+      <SequencePoint IlOffset="IL_019a" SourceFileIndex="2" StartLine="373" StartColumn="7" EndLine="373" EndColumn="50" />
+      <SequencePoint IlOffset="IL_01a6" SourceFileIndex="2" StartLine="374" StartColumn="7" EndLine="374" EndColumn="35" />
+      <SequencePoint IlOffset="IL_01cc" SourceFileIndex="2" StartLine="379" StartColumn="7" EndLine="379" EndColumn="36" />
+      <SequencePoint IlOffset="IL_01f4" SourceFileIndex="2" StartLine="384" StartColumn="7" EndLine="384" EndColumn="32" />
+      <SequencePoint IlOffset="IL_0200" SourceFileIndex="2" StartLine="385" StartColumn="7" EndLine="385" EndColumn="38" />
+      <SequencePoint IlOffset="IL_0210" SourceFileIndex="2" StartLine="386" StartColumn="7" EndLine="386" EndColumn="50" />
+      <SequencePoint IlOffset="IL_021c" SourceFileIndex="2" StartLine="387" StartColumn="7" EndLine="387" EndColumn="33" />
+      <SequencePoint IlOffset="IL_022c" SourceFileIndex="2" StartLine="388" StartColumn="7" EndLine="388" EndColumn="64" />
+      <SequencePoint IlOffset="IL_0238" SourceFileIndex="2" StartLine="389" StartColumn="7" EndLine="389" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0244" SourceFileIndex="2" StartLine="390" StartColumn="7" EndLine="395" EndColumn="9" />
+      <SequencePoint IlOffset="IL_0290" SourceFileIndex="2" StartLine="400" StartColumn="7" EndLine="400" EndColumn="40" />
+      <SequencePoint IlOffset="IL_02b8" SourceFileIndex="2" StartLine="405" StartColumn="7" EndLine="405" EndColumn="34" />
+      <SequencePoint IlOffset="IL_02c4" SourceFileIndex="2" StartLine="406" StartColumn="7" EndLine="406" EndColumn="34" />
+      <SequencePoint IlOffset="IL_02e7" SourceFileIndex="2" StartLine="411" StartColumn="7" EndLine="411" EndColumn="34" />
+      <SequencePoint IlOffset="IL_030f" SourceFileIndex="2" StartLine="416" StartColumn="7" EndLine="416" EndColumn="31" />
+      <SequencePoint IlOffset="IL_031b" SourceFileIndex="2" StartLine="417" StartColumn="7" EndLine="417" EndColumn="37" />
+      <SequencePoint IlOffset="IL_032b" SourceFileIndex="2" StartLine="418" StartColumn="7" EndLine="418" EndColumn="34" />
+      <SequencePoint IlOffset="IL_034e" SourceFileIndex="2" StartLine="423" StartColumn="7" EndLine="423" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0375" SourceFileIndex="2" StartLine="428" StartColumn="7" EndLine="428" EndColumn="31" />
+      <SequencePoint IlOffset="IL_039b" SourceFileIndex="2" StartLine="433" StartColumn="7" EndLine="433" EndColumn="36" />
+      <SequencePoint IlOffset="IL_03c3" SourceFileIndex="2" StartLine="438" StartColumn="7" EndLine="438" EndColumn="32" />
+      <SequencePoint IlOffset="IL_03cf" SourceFileIndex="2" StartLine="439" StartColumn="7" EndLine="439" EndColumn="33" />
+      <SequencePoint IlOffset="IL_03df" SourceFileIndex="2" StartLine="440" StartColumn="7" EndLine="440" EndColumn="50" />
+      <SequencePoint IlOffset="IL_03eb" SourceFileIndex="2" StartLine="441" StartColumn="7" EndLine="441" EndColumn="52" />
+      <SequencePoint IlOffset="IL_0404" SourceFileIndex="2" StartLine="442" StartColumn="7" EndLine="442" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0424" SourceFileIndex="2" StartLine="445" StartColumn="7" EndLine="445" EndColumn="48" />
+      <SequencePoint IlOffset="IL_0435" SourceFileIndex="2" StartLine="446" StartColumn="7" EndLine="446" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0446" SourceFileIndex="2" StartLine="447" StartColumn="7" EndLine="447" EndColumn="47" />
+      <SequencePoint IlOffset="IL_0457" SourceFileIndex="2" StartLine="448" StartColumn="7" EndLine="448" EndColumn="50" />
+      <SequencePoint IlOffset="IL_0468" SourceFileIndex="2" StartLine="449" StartColumn="7" EndLine="449" EndColumn="48" />
+      <SequencePoint IlOffset="IL_0479" SourceFileIndex="2" StartLine="450" StartColumn="7" EndLine="450" EndColumn="48" />
+      <SequencePoint IlOffset="IL_048a" SourceFileIndex="2" StartLine="451" StartColumn="7" EndLine="451" EndColumn="48" />
+      <SequencePoint IlOffset="IL_049b" SourceFileIndex="2" StartLine="452" StartColumn="7" EndLine="452" EndColumn="53" />
+      <SequencePoint IlOffset="IL_04ac" SourceFileIndex="2" StartLine="453" StartColumn="7" EndLine="453" EndColumn="74" />
+      <SequencePoint IlOffset="IL_04c2" SourceFileIndex="2" StartLine="454" StartColumn="7" EndLine="454" EndColumn="26" />
+      <SequencePoint IlOffset="IL_04cd" SourceFileIndex="2" StartLine="455" StartColumn="7" EndLine="455" EndColumn="58" />
+      <SequencePoint IlOffset="IL_04d4" SourceFileIndex="2" StartLine="456" StartColumn="7" EndLine="456" EndColumn="44" />
+      <SequencePoint IlOffset="IL_04df" SourceFileIndex="2" StartLine="457" StartColumn="7" EndLine="457" EndColumn="31" />
+      <SequencePoint IlOffset="IL_04e6" SourceFileIndex="2" StartLine="458" StartColumn="7" EndLine="458" EndColumn="27" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_04ed" IsRoot="True" Method="6000021">
+      <Scope OffsetRange="IL_0000-IL_04ed" IsRoot="False" Method="6000021">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_001a-IL_04ae" IsRoot="False" Method="6000021">
+          <LocalVariable LocalVariablesSignatureToken="11000016" IlIndex="0" Attributes="PrivateScope" Signature="">componentResourceManager</LocalVariable>
+          <Scope OffsetRange="IL_0090-IL_0396" IsRoot="False" Method="6000021">
+            <LocalVariable LocalVariablesSignatureToken="11000016" IlIndex="2" Attributes="PrivateScope" Signature="">point1</LocalVariable>
+            <Scope OffsetRange="IL_00b7-IL_0396" IsRoot="False" Method="6000021">
+              <LocalVariable LocalVariablesSignatureToken="11000016" IlIndex="4" Attributes="PrivateScope" Signature="">size1</LocalVariable>
+            </Scope>
+          </Scope>
+          <Scope OffsetRange="IL_0396-IL_041f" IsRoot="False" Method="6000021">
+            <LocalVariable LocalVariablesSignatureToken="11000016" IlIndex="4" Attributes="PrivateScope" Signature="">size1</LocalVariable>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600004F">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="288" StartColumn="7" EndLine="288" EndColumn="42" />
+      <SequencePoint IlOffset="IL_000d" SourceFileIndex="3" StartLine="289" StartColumn="7" EndLine="289" EndColumn="34" />
+      <SequencePoint IlOffset="IL_001d" SourceFileIndex="3" StartLine="290" StartColumn="7" EndLine="290" EndColumn="34" />
+      <SequencePoint IlOffset="IL_002d" SourceFileIndex="3" StartLine="291" StartColumn="7" EndLine="291" EndColumn="113" />
+      <SequencePoint IlOffset="IL_005c" SourceFileIndex="3" StartLine="292" StartColumn="7" EndLine="292" EndColumn="133" />
+      <SequencePoint IlOffset="IL_0094" SourceFileIndex="3" Hidden="true" />
+      <SequencePoint IlOffset="IL_00af" SourceFileIndex="3" StartLine="299" StartColumn="11" EndLine="299" EndColumn="106" />
+      <SequencePoint IlOffset="IL_00da" SourceFileIndex="3" StartLine="300" StartColumn="21" EndLine="300" EndColumn="29" />
+      <SequencePoint IlOffset="IL_00de" SourceFileIndex="3" StartLine="297" StartColumn="9" EndLine="297" EndColumn="31" />
+      <SequencePoint IlOffset="IL_00e2" SourceFileIndex="3" Hidden="true" />
+      <SequencePoint IlOffset="IL_00fd" SourceFileIndex="3" StartLine="307" StartColumn="11" EndLine="307" EndColumn="107" />
+      <SequencePoint IlOffset="IL_0128" SourceFileIndex="3" StartLine="308" StartColumn="21" EndLine="308" EndColumn="29" />
+      <SequencePoint IlOffset="IL_012c" SourceFileIndex="3" StartLine="305" StartColumn="9" EndLine="305" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0130" SourceFileIndex="3" StartLine="310" StartColumn="9" EndLine="310" EndColumn="42" />
+      <SequencePoint IlOffset="IL_0140" SourceFileIndex="3" StartLine="311" StartColumn="9" EndLine="311" EndColumn="111" />
+      <SequencePoint IlOffset="IL_0150" SourceFileIndex="3" StartLine="312" StartColumn="9" EndLine="312" EndColumn="36" />
+      <SequencePoint IlOffset="IL_015c" SourceFileIndex="3" Hidden="true" />
+      <SequencePoint IlOffset="IL_015e" SourceFileIndex="3" StartLine="316" StartColumn="9" EndLine="316" EndColumn="44" />
+      <SequencePoint IlOffset="IL_016e" SourceFileIndex="3" StartLine="317" StartColumn="9" EndLine="317" EndColumn="71" />
+      <SequencePoint IlOffset="IL_017e" SourceFileIndex="3" StartLine="318" StartColumn="9" EndLine="318" EndColumn="37" />
+      <SequencePoint IlOffset="IL_018a" SourceFileIndex="3" StartLine="320" StartColumn="7" EndLine="320" EndColumn="61" />
+      <SequencePoint IlOffset="IL_01af" SourceFileIndex="3" Hidden="true" />
+      <SequencePoint IlOffset="IL_01b4" SourceFileIndex="3" StartLine="323" StartColumn="11" EndLine="323" EndColumn="122" />
+      <SequencePoint IlOffset="IL_01e3" SourceFileIndex="3" StartLine="324" StartColumn="11" EndLine="324" EndColumn="17" />
+      <SequencePoint IlOffset="IL_01e5" SourceFileIndex="3" StartLine="326" StartColumn="11" EndLine="326" EndColumn="122" />
+      <SequencePoint IlOffset="IL_0214" SourceFileIndex="3" StartLine="327" StartColumn="11" EndLine="327" EndColumn="17" />
+      <SequencePoint IlOffset="IL_0216" SourceFileIndex="3" StartLine="329" StartColumn="11" EndLine="329" EndColumn="120" />
+      <SequencePoint IlOffset="IL_0245" SourceFileIndex="3" StartLine="330" StartColumn="11" EndLine="330" EndColumn="17" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0246" IsRoot="True" Method="600004F">
+      <Scope OffsetRange="IL_0000-IL_0246" IsRoot="False" Method="600004F">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_00ab-IL_00e0" IsRoot="False" Method="600004F">
+          <LocalVariable LocalVariablesSignatureToken="11000032" IlIndex="2" Attributes="PrivateScope" Signature="">num2</LocalVariable>
+          <Scope OffsetRange="IL_00ac-IL_00df" IsRoot="False" Method="600004F">
+            <LocalVariable LocalVariablesSignatureToken="11000032" IlIndex="0" Attributes="PrivateScope" Signature="">index1</LocalVariable>
+          </Scope>
+        </Scope>
+        <Scope OffsetRange="IL_00f9-IL_012e" IsRoot="False" Method="600004F">
+          <LocalVariable LocalVariablesSignatureToken="11000032" IlIndex="3" Attributes="PrivateScope" Signature="">num4</LocalVariable>
+          <Scope OffsetRange="IL_00fa-IL_012d" IsRoot="False" Method="600004F">
+            <LocalVariable LocalVariablesSignatureToken="11000032" IlIndex="1" Attributes="PrivateScope" Signature="">index2</LocalVariable>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000050">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" Hidden="true" />
+      <SequencePoint IlOffset="IL_001b" SourceFileIndex="3" StartLine="343" StartColumn="11" EndLine="343" EndColumn="90" />
+      <SequencePoint IlOffset="IL_003a" SourceFileIndex="3" StartLine="344" StartColumn="21" EndLine="344" EndColumn="29" />
+      <SequencePoint IlOffset="IL_003e" SourceFileIndex="3" StartLine="341" StartColumn="9" EndLine="341" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0042" SourceFileIndex="3" Hidden="true" />
+      <SequencePoint IlOffset="IL_005e" SourceFileIndex="3" StartLine="351" StartColumn="11" EndLine="351" EndColumn="86" />
+      <SequencePoint IlOffset="IL_007d" SourceFileIndex="3" StartLine="352" StartColumn="21" EndLine="352" EndColumn="29" />
+      <SequencePoint IlOffset="IL_0081" SourceFileIndex="3" StartLine="349" StartColumn="9" EndLine="349" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0086" SourceFileIndex="3" StartLine="354" StartColumn="9" EndLine="354" EndColumn="135" />
+      <SequencePoint IlOffset="IL_0099" SourceFileIndex="3" Hidden="true" />
+      <SequencePoint IlOffset="IL_00a1" SourceFileIndex="3" StartLine="359" StartColumn="9" EndLine="359" EndColumn="117" />
+      <SequencePoint IlOffset="IL_00bb" SourceFileIndex="3" StartLine="360" StartColumn="9" EndLine="360" EndColumn="40" />
+      <SequencePoint IlOffset="IL_00c0" SourceFileIndex="3" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_00c3" IsRoot="True" Method="6000050">
+      <Scope OffsetRange="IL_0000-IL_00c3" IsRoot="False" Method="6000050">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_0017-IL_0040" IsRoot="False" Method="6000050">
+          <LocalVariable LocalVariablesSignatureToken="11000033" IlIndex="3" Attributes="PrivateScope" Signature="">num2</LocalVariable>
+          <Scope OffsetRange="IL_0018-IL_003f" IsRoot="False" Method="6000050">
+            <LocalVariable LocalVariablesSignatureToken="11000033" IlIndex="0" Attributes="PrivateScope" Signature="">index1</LocalVariable>
+          </Scope>
+        </Scope>
+        <Scope OffsetRange="IL_0059-IL_0084" IsRoot="False" Method="6000050">
+          <LocalVariable LocalVariablesSignatureToken="11000033" IlIndex="4" Attributes="PrivateScope" Signature="">num4</LocalVariable>
+          <Scope OffsetRange="IL_005b-IL_0082" IsRoot="False" Method="6000050">
+            <LocalVariable LocalVariablesSignatureToken="11000033" IlIndex="1" Attributes="PrivateScope" Signature="">index2</LocalVariable>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000036">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="463" StartColumn="7" EndLine="463" EndColumn="39" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_000d" IsRoot="True" Method="6000036">
+      <Scope OffsetRange="IL_0000-IL_000d" IsRoot="False" Method="6000036">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000051">
+    <SequencePoints SourceFileIndex="3">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="3" StartLine="366" StartColumn="7" EndLine="366" EndColumn="47" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0010" IsRoot="True" Method="6000051">
+      <Scope OffsetRange="IL_0000-IL_0010" IsRoot="False" Method="6000051">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000037">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="468" StartColumn="7" EndLine="468" EndColumn="29" />
+      <SequencePoint IlOffset="IL_000b" SourceFileIndex="2" StartLine="469" StartColumn="7" EndLine="469" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0016" SourceFileIndex="2" StartLine="470" StartColumn="7" EndLine="470" EndColumn="28" />
+      <SequencePoint IlOffset="IL_001d" SourceFileIndex="2" StartLine="471" StartColumn="7" EndLine="471" EndColumn="25" />
+      <SequencePoint IlOffset="IL_0024" SourceFileIndex="2" StartLine="472" StartColumn="7" EndLine="472" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0030" SourceFileIndex="2" StartLine="473" StartColumn="7" EndLine="473" EndColumn="44" />
+      <SequencePoint IlOffset="IL_004c" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_004e" SourceFileIndex="2" StartLine="476" StartColumn="11" EndLine="476" EndColumn="97" />
+      <SequencePoint IlOffset="IL_006a" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_006c" SourceFileIndex="2" StartLine="479" StartColumn="11" EndLine="479" EndColumn="101" />
+      <SequencePoint IlOffset="IL_0088" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_008a" SourceFileIndex="2" StartLine="482" StartColumn="11" EndLine="482" EndColumn="99" />
+      <SequencePoint IlOffset="IL_00a6" SourceFileIndex="2" StartLine="485" StartColumn="7" EndLine="485" EndColumn="33" />
+      <SequencePoint IlOffset="IL_00b2" SourceFileIndex="2" StartLine="486" StartColumn="7" EndLine="486" EndColumn="40" />
+      <SequencePoint IlOffset="IL_00c2" SourceFileIndex="2" StartLine="487" StartColumn="7" EndLine="487" EndColumn="35" />
+      <SequencePoint IlOffset="IL_00ce" SourceFileIndex="2" StartLine="488" StartColumn="7" EndLine="488" EndColumn="35" />
+      <SequencePoint IlOffset="IL_00da" SourceFileIndex="2" StartLine="489" StartColumn="7" EndLine="489" EndColumn="34" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_00e7" IsRoot="True" Method="6000037">
+      <Scope OffsetRange="IL_0000-IL_00e7" IsRoot="False" Method="6000037">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000038">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="494" StartColumn="7" EndLine="494" EndColumn="100" />
+      <SequencePoint IlOffset="IL_0023" SourceFileIndex="2" StartLine="496" StartColumn="9" EndLine="496" EndColumn="160" />
+      <SequencePoint IlOffset="IL_0036" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_0038" SourceFileIndex="2" StartLine="500" StartColumn="9" EndLine="500" EndColumn="20" />
+      <SequencePoint IlOffset="IL_003e" SourceFileIndex="2" StartLine="501" StartColumn="9" EndLine="501" EndColumn="49" />
+      <SequencePoint IlOffset="IL_004d" SourceFileIndex="2" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_004e" IsRoot="True" Method="6000038">
+      <Scope OffsetRange="IL_0000-IL_004e" IsRoot="False" Method="6000038">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000039">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="507" StartColumn="7" EndLine="507" EndColumn="44" />
+      <SequencePoint IlOffset="IL_001c" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_0021" SourceFileIndex="2" StartLine="510" StartColumn="11" EndLine="510" EndColumn="115" />
+      <SequencePoint IlOffset="IL_0035" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_0049" SourceFileIndex="2" StartLine="512" StartColumn="13" EndLine="512" EndColumn="75" />
+      <SequencePoint IlOffset="IL_0062" SourceFileIndex="2" StartLine="513" StartColumn="13" EndLine="513" EndColumn="64" />
+      <SequencePoint IlOffset="IL_0070" SourceFileIndex="2" StartLine="515" StartColumn="11" EndLine="515" EndColumn="124" />
+      <SequencePoint IlOffset="IL_0087" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_009b" SourceFileIndex="2" StartLine="517" StartColumn="13" EndLine="517" EndColumn="76" />
+      <SequencePoint IlOffset="IL_00b4" SourceFileIndex="2" StartLine="518" StartColumn="13" EndLine="518" EndColumn="64" />
+      <SequencePoint IlOffset="IL_00c2" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_00c7" SourceFileIndex="2" StartLine="524" StartColumn="11" EndLine="524" EndColumn="119" />
+      <SequencePoint IlOffset="IL_00db" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_00ef" SourceFileIndex="2" StartLine="526" StartColumn="13" EndLine="526" EndColumn="77" />
+      <SequencePoint IlOffset="IL_0108" SourceFileIndex="2" StartLine="527" StartColumn="13" EndLine="527" EndColumn="64" />
+      <SequencePoint IlOffset="IL_0116" SourceFileIndex="2" StartLine="529" StartColumn="11" EndLine="529" EndColumn="128" />
+      <SequencePoint IlOffset="IL_012d" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_0141" SourceFileIndex="2" StartLine="531" StartColumn="13" EndLine="531" EndColumn="78" />
+      <SequencePoint IlOffset="IL_015a" SourceFileIndex="2" StartLine="532" StartColumn="13" EndLine="532" EndColumn="64" />
+      <SequencePoint IlOffset="IL_0168" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_016d" SourceFileIndex="2" StartLine="538" StartColumn="11" EndLine="538" EndColumn="117" />
+      <SequencePoint IlOffset="IL_0181" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_0195" SourceFileIndex="2" StartLine="540" StartColumn="13" EndLine="540" EndColumn="76" />
+      <SequencePoint IlOffset="IL_01ae" SourceFileIndex="2" StartLine="541" StartColumn="13" EndLine="541" EndColumn="64" />
+      <SequencePoint IlOffset="IL_01bc" SourceFileIndex="2" StartLine="543" StartColumn="11" EndLine="543" EndColumn="126" />
+      <SequencePoint IlOffset="IL_01d0" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_01e4" SourceFileIndex="2" StartLine="545" StartColumn="13" EndLine="545" EndColumn="77" />
+      <SequencePoint IlOffset="IL_01fd" SourceFileIndex="2" StartLine="546" StartColumn="13" EndLine="546" EndColumn="64" />
+      <SequencePoint IlOffset="IL_020b" SourceFileIndex="2" StartLine="552" StartColumn="7" EndLine="552" EndColumn="64" />
+      <SequencePoint IlOffset="IL_0223" SourceFileIndex="2" StartLine="554" StartColumn="9" EndLine="554" EndColumn="36" />
+      <SequencePoint IlOffset="IL_022f" SourceFileIndex="2" StartLine="555" StartColumn="9" EndLine="555" EndColumn="44" />
+      <SequencePoint IlOffset="IL_023f" SourceFileIndex="2" StartLine="556" StartColumn="9" EndLine="556" EndColumn="196" />
+      <SequencePoint IlOffset="IL_0252" SourceFileIndex="2" StartLine="557" StartColumn="9" EndLine="557" EndColumn="36" />
+      <SequencePoint IlOffset="IL_025e" SourceFileIndex="2" StartLine="558" StartColumn="9" EndLine="558" EndColumn="36" />
+      <SequencePoint IlOffset="IL_026a" SourceFileIndex="2" StartLine="559" StartColumn="9" EndLine="559" EndColumn="37" />
+      <SequencePoint IlOffset="IL_0276" SourceFileIndex="2" Hidden="true" />
+      <SequencePoint IlOffset="IL_0278" SourceFileIndex="2" StartLine="563" StartColumn="9" EndLine="563" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0286" SourceFileIndex="2" StartLine="564" StartColumn="9" EndLine="564" EndColumn="53" />
+      <SequencePoint IlOffset="IL_028d" SourceFileIndex="2" StartLine="565" StartColumn="9" EndLine="565" EndColumn="62" />
+      <SequencePoint IlOffset="IL_029b" SourceFileIndex="2" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_029c" IsRoot="True" Method="6000039">
+      <Scope OffsetRange="IL_0000-IL_029c" IsRoot="False" Method="6000039">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+        <Scope OffsetRange="IL_028c-IL_028f" IsRoot="False" Method="6000039">
+          <LocalVariable LocalVariablesSignatureToken="11000027" IlIndex="1" Attributes="PrivateScope" Signature="">progressBar1</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003A">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="571" StartColumn="7" EndLine="571" EndColumn="34" />
+      <SequencePoint IlOffset="IL_000c" SourceFileIndex="2" StartLine="572" StartColumn="7" EndLine="572" EndColumn="40" />
+      <SequencePoint IlOffset="IL_001c" SourceFileIndex="2" StartLine="573" StartColumn="7" EndLine="573" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0028" SourceFileIndex="2" StartLine="574" StartColumn="7" EndLine="574" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0034" SourceFileIndex="2" StartLine="575" StartColumn="7" EndLine="575" EndColumn="34" />
+      <SequencePoint IlOffset="IL_0040" SourceFileIndex="2" StartLine="576" StartColumn="7" EndLine="576" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_004d" IsRoot="True" Method="600003A">
+      <Scope OffsetRange="IL_0000-IL_004d" IsRoot="False" Method="600003A">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="600003B">
+    <SequencePoints SourceFileIndex="2">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="2" StartLine="581" StartColumn="7" EndLine="581" EndColumn="34" />
+      <SequencePoint IlOffset="IL_000b" SourceFileIndex="2" StartLine="582" StartColumn="7" EndLine="582" EndColumn="114" />
+      <SequencePoint IlOffset="IL_001e" SourceFileIndex="2" StartLine="584" StartColumn="7" EndLine="584" EndColumn="25" />
+      <SequencePoint IlOffset="IL_0023" SourceFileIndex="2" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0024" IsRoot="True" Method="600003B">
+      <Scope OffsetRange="IL_0000-IL_0024" IsRoot="False" Method="600003B">
+        <UsedNamespace>Green_Dragon_Anti_Virus.My</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic</UsedNamespace>
+        <UsedNamespace>Microsoft.VisualBasic.CompilerServices</UsedNamespace>
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.ComponentModel</UsedNamespace>
+        <UsedNamespace>System.Diagnostics</UsedNamespace>
+        <UsedNamespace>System.Drawing</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Runtime.CompilerServices</UsedNamespace>
+        <UsedNamespace>System.Windows.Forms</UsedNamespace>
+      </Scope>
+    </Scope>
+  </Method>
+</PdbContent>

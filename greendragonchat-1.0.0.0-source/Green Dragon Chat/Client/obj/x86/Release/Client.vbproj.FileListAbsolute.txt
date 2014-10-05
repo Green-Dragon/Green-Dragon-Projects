@@ -1,0 +1,17 @@
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\bin\Release\Green Dragon Chat.exe.manifest
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\bin\Release\Green Dragon Chat.application
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\bin\Release\Green Dragon Chat.exe
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\bin\Release\Green Dragon Chat.pdb
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\bin\Release\Green Dragon Chat.xml
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\GreenDragonChat.About.resources
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\GreenDragonChat.CryptionKeyGenerator.resources
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\GreenDragonChat.Main.resources
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\GreenDragonChat.Resources.resources
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\GreenDragonChat.Settings.resources
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\Client.vbproj.GenerateResource.Cache
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\Green Dragon Chat.TrustInfo.xml
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\Green Dragon Chat.exe.manifest
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\Green Dragon Chat.application
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\Green Dragon Chat.exe
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\Green Dragon Chat.xml
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Client\obj\x86\Release\Green Dragon Chat.pdb

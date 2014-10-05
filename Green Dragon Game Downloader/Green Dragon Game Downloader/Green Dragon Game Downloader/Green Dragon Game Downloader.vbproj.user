@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\emils_000\Dropbox\Projects\Green Dragon Game Downloader\|C:\Program Files %28x86%29\Green Dragon\Green Dragon Game Downloader\ClickOnce\|C:\Program Files %28x86%29\Dev-Fire\Game Downloader\ClickOnce\|C:\Program Files %28x86%29\Dev-Fire\Game Downloader\Data\ClickOnce\|C:\Users\Tim\Desktop\clickonce\</PublishUrlHistory>
+    <InstallUrlHistory>https://www.dropbox.com/sh/4xky4ml606980bx/AAAwZpXo4GHUmKVMhH3d0ACKa/Green%2520Dragon%2520Game%2520Downloader.exe%3fdl=1/|http://www.atlus.com/|http://dev-fire-gd.svn.sourceforge.net/viewvc/dev-fire-gd/Game%2520Downloader/Data/ClickOnce/|http://dev-fire-gd.svn.sourceforge.net/viewvc/dev-fire-gd/Game%2520Downloader/Data//clickonce/|http://dev-fire-gd.sourceforge.net/clickonce/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.greendragonsearch.net/contact-me.html|http://sourceforge.net/apps/phpbb/dev-fire-gd/|http://dev-fire-gd.sourceforge.net/</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

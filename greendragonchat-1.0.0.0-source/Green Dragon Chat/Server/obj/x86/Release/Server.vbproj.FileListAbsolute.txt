@@ -1,0 +1,8 @@
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Server\bin\Release\Green Dragon Chat Server.exe
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Server\bin\Release\Green Dragon Chat Server.pdb
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Server\bin\Release\Green Dragon Chat Server.xml
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Server\obj\x86\Release\GreenDragonChatServer.Resources.resources
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Server\obj\x86\Release\Server.vbproj.GenerateResource.Cache
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Server\obj\x86\Release\Green Dragon Chat Server.exe
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Server\obj\x86\Release\Green Dragon Chat Server.xml
+C:\Users\emils_000\Downloads\greendragonchat-1.0.0.0-source\Green Dragon Chat\Server\obj\x86\Release\Green Dragon Chat Server.pdb

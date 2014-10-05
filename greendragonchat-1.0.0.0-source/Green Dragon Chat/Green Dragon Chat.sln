@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Server", "Server\Server.vbproj", "{C9939A30-FA4C-4B69-8709-563371E9F080}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Client", "Client\Client.vbproj", "{BE2F54CB-52C9-4559-9AE8-F7E9207DC9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9939A30-FA4C-4B69-8709-563371E9F080}.Debug|x86.ActiveCfg = Debug|x86
+		{C9939A30-FA4C-4B69-8709-563371E9F080}.Debug|x86.Build.0 = Debug|x86
+		{C9939A30-FA4C-4B69-8709-563371E9F080}.Release|x86.ActiveCfg = Release|x86
+		{C9939A30-FA4C-4B69-8709-563371E9F080}.Release|x86.Build.0 = Release|x86
+		{BE2F54CB-52C9-4559-9AE8-F7E9207DC9B8}.Debug|x86.ActiveCfg = Debug|x86
+		{BE2F54CB-52C9-4559-9AE8-F7E9207DC9B8}.Debug|x86.Build.0 = Debug|x86
+		{BE2F54CB-52C9-4559-9AE8-F7E9207DC9B8}.Release|x86.ActiveCfg = Release|x86
+		{BE2F54CB-52C9-4559-9AE8-F7E9207DC9B8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
